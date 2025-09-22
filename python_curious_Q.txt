@@ -1,0 +1,17 @@
+
+fetchone() and fetchall()
+
+
+
+
+.\.venv\Scripts\Activate.ps1
+
+
+
+
+
+
+
+session.add_all([p1,p2])
+
+std deviation
